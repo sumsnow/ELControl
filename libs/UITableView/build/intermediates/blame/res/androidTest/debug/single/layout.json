@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Work\\Easeic\\ELControl\\libs\\UITableView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\list_item_top.xml",
+        "source": "D:\\Work\\Easeic\\ELControl\\libs\\UITableView\\build\\intermediates\\bundles\\debug\\res\\layout\\list_item_top.xml"
+    },
+    {
+        "merged": "D:\\Work\\Easeic\\ELControl\\libs\\UITableView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\list_item_middle.xml",
+        "source": "D:\\Work\\Easeic\\ELControl\\libs\\UITableView\\build\\intermediates\\bundles\\debug\\res\\layout\\list_item_middle.xml"
+    },
+    {
+        "merged": "D:\\Work\\Easeic\\ELControl\\libs\\UITableView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\list_item_single.xml",
+        "source": "D:\\Work\\Easeic\\ELControl\\libs\\UITableView\\build\\intermediates\\bundles\\debug\\res\\layout\\list_item_single.xml"
+    },
+    {
+        "merged": "D:\\Work\\Easeic\\ELControl\\libs\\UITableView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\list_container.xml",
+        "source": "D:\\Work\\Easeic\\ELControl\\libs\\UITableView\\build\\intermediates\\bundles\\debug\\res\\layout\\list_container.xml"
+    },
+    {
+        "merged": "D:\\Work\\Easeic\\ELControl\\libs\\UITableView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\list_item_bottom.xml",
+        "source": "D:\\Work\\Easeic\\ELControl\\libs\\UITableView\\build\\intermediates\\bundles\\debug\\res\\layout\\list_item_bottom.xml"
+    },
+    {
+        "merged": "D:\\Work\\Easeic\\ELControl\\libs\\UITableView\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\uitableview_activity.xml",
+        "source": "D:\\Work\\Easeic\\ELControl\\libs\\UITableView\\build\\intermediates\\bundles\\debug\\res\\layout\\uitableview_activity.xml"
+    }
+]

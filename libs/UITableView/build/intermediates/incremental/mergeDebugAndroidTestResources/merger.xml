@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug$Generated" generated="true"><source path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="D:\Work\Easeic\ELControl\libs\UITableView\src\androidTest\res"/><source path="D:\Work\Easeic\ELControl\libs\UITableView\build\generated\res\rs\androidTest\debug"/><source path="D:\Work\Easeic\ELControl\libs\UITableView\build\generated\res\resValues\androidTest\debug"/></dataSet><dataSet config="debug" from-dependency="true" generated-set="debug$Generated"><source path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res"><file name="text_color_selector" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\color\text_color_selector.xml" qualifiers="" type="color"/><file name="background_view_rounded_bottom" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\drawable\background_view_rounded_bottom.xml" qualifiers="" type="drawable"/><file name="background_view_rounded_container" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\drawable\background_view_rounded_container.xml" qualifiers="" type="drawable"/><file name="background_view_rounded_middle" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\drawable\background_view_rounded_middle.xml" qualifiers="" type="drawable"/><file name="background_view_rounded_single" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\drawable\background_view_rounded_single.xml" qualifiers="" type="drawable"/><file name="background_view_rounded_top" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\drawable\background_view_rounded_top.xml" qualifiers="" type="drawable"/><file name="button_text_color" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\drawable\button_text_color.xml" qualifiers="" type="drawable"/><file name="chevron" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\drawable\chevron.xml" qualifiers="" type="drawable"/><file name="icon" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\drawable\icon.png" qualifiers="" type="drawable"/><file name="chevron_default" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\drawable-hdpi-v4\chevron_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="chevron_white" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\drawable-hdpi-v4\chevron_white.png" qualifiers="hdpi-v4" type="drawable"/><file name="chevron_default" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\drawable-ldpi-v4\chevron_default.png" qualifiers="ldpi-v4" type="drawable"/><file name="chevron_white" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\drawable-ldpi-v4\chevron_white.png" qualifiers="ldpi-v4" type="drawable"/><file name="chevron_default" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\drawable-mdpi-v4\chevron_default.png" qualifiers="mdpi-v4" type="drawable"/><file name="chevron_white" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\drawable-mdpi-v4\chevron_white.png" qualifiers="mdpi-v4" type="drawable"/><file name="chevron_default" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\chevron_default.png" qualifiers="xhdpi-v4" type="drawable"/><file name="chevron_white" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\drawable-xhdpi-v4\chevron_white.png" qualifiers="xhdpi-v4" type="drawable"/><file name="list_container" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\layout\list_container.xml" qualifiers="" type="layout"/><file name="list_item_bottom" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\layout\list_item_bottom.xml" qualifiers="" type="layout"/><file name="list_item_middle" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\layout\list_item_middle.xml" qualifiers="" type="layout"/><file name="list_item_single" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\layout\list_item_single.xml" qualifiers="" type="layout"/><file name="list_item_top" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\layout\list_item_top.xml" qualifiers="" type="layout"/><file name="uitableview_activity" path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\layout\uitableview_activity.xml" qualifiers="" type="layout"/><file path="D:\Work\Easeic\ELControl\libs\UITableView\build\intermediates\bundles\debug\res\values\values.xml" qualifiers=""><string name="hello">Hello World!</string><style name="content_page_large_text">
+		<item name="android:duplicateParentState">true</item>
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_color_selector</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style><style name="content_page_small_text">
+		<item name="android:duplicateParentState">true</item>
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/text_color_selector</item>
+    </style><style name="list_item_single">
+		<item name="android:clickable">true</item>
+		<item name="android:paddingTop">10dip</item>
+		<item name="android:paddingBottom">10dip</item>
+		<item name="android:paddingLeft">10dip</item>
+    	<item name="android:paddingRight">10dip</item>
+    	<item name="android:gravity">center_vertical</item>
+    	<item name="android:background">@drawable/background_view_rounded_single</item>
+	</style><color name="text_color_pressed">#ffffff</color><style name="list_item_chevron">
+        <item name="android:paddingLeft">4.0dip</item>
+        <item name="android:paddingTop">2.0dip</item>
+        <item name="android:paddingRight">4.0dip</item>
+        <item name="android:paddingBottom">2.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/chevron</item>
+        <item name="android:duplicateParentState">true</item>
+    </style><color name="rounded_container_border">#ffb7babb</color><string name="app_name">Android-uitableview</string><style name="list_container">
+		<item name="android:background">@drawable/background_view_rounded_container</item>
+	</style><style name="UITableView">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">fill_parent</item>	
+	</style><color name="base_end_color_default">#FFFFFF</color><color name="base_end_color_pressed">#ff2570ba</color><style name="list_item_top">
+		<item name="android:clickable">true</item>
+		<item name="android:focusable">true</item>
+		<item name="android:paddingTop">10dip</item>
+		<item name="android:paddingBottom">10dip</item>
+		<item name="android:paddingLeft">10dip</item>
+    	<item name="android:paddingRight">10dip</item>
+    	<item name="android:gravity">center_vertical</item>
+    	<item name="android:background">@drawable/background_view_rounded_top</item>
+	</style><color name="base_start_color_pressed">#ff3590c4</color><style name="list_item_middle">
+		<item name="android:clickable">true</item>
+		<item name="android:paddingTop">10dip</item>
+		<item name="android:paddingBottom">10dip</item>
+		<item name="android:paddingLeft">10dip</item>
+    	<item name="android:paddingRight">10dip</item>
+    	<item name="android:gravity">center_vertical</item>
+    	<item name="android:background">@drawable/background_view_rounded_middle</item>
+	</style><color name="text_color_default">#000000</color><style name="list_item_bottom">
+		<item name="android:clickable">true</item>
+		<item name="android:paddingTop">10dip</item>
+		<item name="android:paddingBottom">10dip</item>
+		<item name="android:paddingLeft">10dip</item>
+    	<item name="android:paddingRight">10dip</item>
+    	<item name="android:gravity">center_vertical</item>
+    	<item name="android:background">@drawable/background_view_rounded_bottom</item>
+	</style><color name="base_start_color_default">#FFFFFF</color><style name="content_page_large_count_text">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">#ff8295bf</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">8.0dip</item>
+    </style></file></source></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\Work\Easeic\ELControl\libs\UITableView\src\androidTest\res"/><source path="D:\Work\Easeic\ELControl\libs\UITableView\build\generated\res\rs\androidTest\debug"/><source path="D:\Work\Easeic\ELControl\libs\UITableView\build\generated\res\resValues\androidTest\debug"/></dataSet><mergedItems/></merger>

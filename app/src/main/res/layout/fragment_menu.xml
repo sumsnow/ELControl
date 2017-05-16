@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="5dp"
+    android:paddingTop="5dp"
+    android:orientation="vertical"
+    tools:context="com.easeic.elcontrol.MenuFragment"
+    android:id="@+id/fragment_menu"
+    android:background="@color/colorBack">
+
+
+    <!--TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Title"
+        android:id="@+id/menu_title"
+        android:text="@string/option_title"
+        android:backgroundTint="#3f79ec"
+        android:textAlignment="center" /-->
+
+    <ListView
+        android:id="@+id/android:list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ></ListView>
+
+</LinearLayout>

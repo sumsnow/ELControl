@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">E-Lighting Control</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- menu -->
+    <string name="option_set">set</string>
+    <string name="option_title">Options</string>
+    <string name="option_params">Parameters Set</string>
+    <string name="option_reload">Reload Project</string>
+    <string name="option_delete">Delete Project</string>
+    <string name="option_upload">Upload Project</string>
+    <string name="option_homepage">Homepage Set</string>
+
+    <!--Activity-->
+    <string name="wait_title">Plz wait...</string>
+    <string name="wait_hint">Loading the project，plz wait...</string>
+    <string name="wait_hint_nodot">Loading the project，plz wait</string>
+
+    <!--Configure-->
+    <string name="ui_section">Screen</string>
+    <string name="ui_status">Status Bar</string>
+    <string name="ui_nav">Navigation Bar</string>
+    <string name="ui_screen">Screen Direction</string>
+    <string-array name="screendirs">
+        <item>Both</item>
+        <item>Portrait</item>
+        <item>Landscape</item>
+    </string-array>
+    <string-array name="screendirs_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string name="audio_section">Voice</string>
+    <string name="audio_mute">Mute</string>
+
+    <string name="animation_section">Animation</string>
+    <string name="animation_enable">Animation</string>
+
+    <string name="view_section">Views</string>
+    <string name="view_backcolor">BackgroundColor</string>
+
+    <string name="io_section">File</string>
+    <string name="io_where">File directory</string>
+
+    <!--Preference-->
+    <string name="pref_setting">ELControlSettting</string>
+    <string name="pref_mute">Mute</string>
+    <string name="pref_savewhere">SaveWhere</string>
+    <string name="pref_cananimation">CanAnimation</string>
+    <string name="pref_status">ShowStatus</string>
+    <string name="pref_nav">ShowNav</string>
+    <string name="pref_colorback">ColorBack</string>
+    <string name="pref_screendir">ScreenDir</string>
+
+    <!--ColorPick-->
+    <string name="colorpicker_title">Select color</string>
+
+    <!--DialogOKCancel-->
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+
+    <!--fileupload-->
+    <string name="upload_wait">Wait for connection...</string>
+    <string name="upload_startupload">Connected，start to upload...</string>
+    <string name="upload_endupload">Upload successfully.</string>
+    <string name="upload_failupload">Fail to upload，disconnect..</string>
+    <string name="upload_noip">No internet connection。</string>
+    <string name="upload_selectip">Select IP</string>
+
+    <!--deleteproject-->
+    <string name="delete_hint">Are you sure to delete project?</string>
+    <string name="exit_hint">Press key againt to exit!  </string>
+
+    <!--passworddlg-->
+    <string name="password_title">Input password</string>
+
+    <!--about-->
+    <string name="about_title">About</string>
+
+    <string name="title_activity_busmanage">Bus Manage</string>
+    <string name="transport_connect">Connected</string>
+    <string name="transport_disconnect">Disconnect</string>
+    <string name="transport_logintitle">Plz login(%s)</string>
+    <string name="transport_loginbtn">Login</string>
+    <string name="transport_userhint">Username</string>
+    <string name="transport_pswhint">Password</string>
+    <string name="transport_errhint">Username or password error!!</string>
+
+    <!--homepage-->
+    <string name="homepage_noproject">Can not set homepage because of no project!!</string>
+    <string name="homepage_hint">Are you sure to set current page to homepage?</string>
+    <string name="local_service_started">ELControl service is running......</string>
+</resources>

@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">E-Lighting Control</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- menu -->
+    <string name="option_set">set</string>
+    <string name="option_title">选 项</string>
+    <string name="option_params">参数设置</string>
+    <string name="option_reload">重载工程</string>
+    <string name="option_delete">删除工程</string>
+    <string name="option_upload">上传工程</string>
+    <string name="option_homepage">设置首页</string>
+
+    <!--Activity-->
+    <string name="wait_title">请等待...</string>
+    <string name="wait_hint">正在加载工程文件，请稍后...</string>
+    <string name="wait_hint_nodot">正在加载工程文件，请稍后</string>
+
+    <!--Configure-->
+    <string name="ui_section">屏幕</string>
+    <string name="ui_status">状态栏</string>
+    <string name="ui_nav">导航栏</string>
+    <string name="ui_screen">屏幕方向</string>
+    <string-array name="screendirs">
+        <item>随意</item>
+        <item>竖屏</item>
+        <item>横屏</item>
+    </string-array>
+    <string-array name="screendirs_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string name="audio_section">声音</string>
+    <string name="audio_mute">静音</string>
+
+    <string name="animation_section">动画</string>
+    <string name="animation_enable">动画</string>
+
+    <string name="view_section">视图</string>
+    <string name="view_backcolor">背景颜色</string>
+
+    <string name="io_section">文件</string>
+    <string name="io_where">存储目录</string>
+
+    <!--Preference-->
+    <string name="pref_setting">ELControlSettting</string>
+    <string name="pref_mute">Mute</string>
+    <string name="pref_savewhere">SaveWhere</string>
+    <string name="pref_cananimation">CanAnimation</string>
+    <string name="pref_status">ShowStatus</string>
+    <string name="pref_nav">ShowNav</string>
+    <string name="pref_colorback">ColorBack</string>
+    <string name="pref_screendir">ScreenDir</string>
+
+    <!--ColorPick-->
+    <string name="colorpicker_title">选取颜色</string>
+
+    <!--DialogOKCancel-->
+    <string name="dialog_ok">确定</string>
+    <string name="dialog_cancel">取消</string>
+
+    <!--fileupload-->
+    <string name="upload_wait">等待连接...</string>
+    <string name="upload_startupload">已经连接，开始上传...</string>
+    <string name="upload_endupload">上传成功。</string>
+    <string name="upload_failupload">上传失败，连接断开.</string>
+    <string name="upload_noip">没有找到可用的网络。</string>
+    <string name="upload_selectip">选择IP</string>
+
+    <!--deleteproject-->
+    <string name="delete_hint">将删除工程，确定吗?</string>
+    <string name="exit_hint">再按一次退出程序</string>
+
+    <!--passworddlg-->
+    <string name="password_title">请输入密码</string>
+
+    <!--about-->
+    <string name="about_title">关于</string>
+
+    <string name="title_activity_busmanage">总线管理</string>
+    <string name="transport_connect">连接</string>
+    <string name="transport_disconnect">未连接</string>
+    <string name="transport_logintitle">请登录(%s)</string>
+    <string name="transport_loginbtn">登录</string>
+    <string name="transport_userhint">用户名</string>
+    <string name="transport_pswhint">密码</string>
+    <string name="transport_errhint">输入的用户名或密码长度不正确!</string>
+
+    <!--homepage-->
+    <string name="homepage_noproject">没有加载工程，不能设置首页!</string>
+    <string name="homepage_hint">将当前页设为首页，确定吗?</string>
+    <string name="local_service_started">ELControl服务正在运行......</string>
+</resources>

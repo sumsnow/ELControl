@@ -1,0 +1,6 @@
+include ':app',':SlidingMenu',':color-picker-view',':UITableView',':dirchooser',':acra'
+project(':SlidingMenu').projectDir = new File('libs/SlidingMenu')
+project(':color-picker-view').projectDir = new File('libs/color-picker-view')
+project(':UITableView').projectDir = new File('libs/UITableView')
+project(':dirchooser').projectDir = new File('libs/dirchooser')
+project(':acra').projectDir = new File('libs/acra-master')

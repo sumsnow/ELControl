@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/ui_section" >
+        <com.easeic.elcontrol.CustomSwitchPreference
+            android:defaultValue="true"
+            android:key="@string/pref_status"
+            android:title="@string/ui_status"/>
+        <com.easeic.elcontrol.CustomSwitchPreference
+            android:defaultValue="true"
+            android:key="@string/pref_nav"
+            android:title="@string/ui_nav"/>
+        <ListPreference
+            android:entries="@array/screendirs"
+            android:entryValues="@array/screendirs_value"
+            android:key="@string/pref_screendir"
+            android:title="@string/ui_screen"
+            android:defaultValue="0"
+            android:summary="%s"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/audio_section" >
+         <com.easeic.elcontrol.CustomSwitchPreference
+            android:defaultValue="false"
+            android:key="@string/pref_mute"
+            android:title="@string/audio_mute"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/animation_section" >
+        <com.easeic.elcontrol.CustomSwitchPreference
+            android:defaultValue="true"
+            android:key="@string/pref_cananimation"
+            android:title="@string/animation_enable"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/view_section" >
+        <com.github.danielnilsson9.colorpickerview.preference.ColorPreference
+            android:defaultValue="0xFF000000"
+            android:key="@string/pref_colorback"
+            android:title="@string/view_backcolor" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/io_section">
+        <Preference
+            android:key="@string/pref_savewhere"
+            android:title="@string/io_where"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>
